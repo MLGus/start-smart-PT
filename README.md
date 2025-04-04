@@ -24,7 +24,7 @@ Esses templates nasceram de necessidades reais em projetos de tecnologia e IA qu
 Se eu deixei algo de fora ou se quiser explorar melhor a documentação e seus recursos, fique à vontade para comentar ou me chamar (no X, Medium, Substack ou LinkedIn) — vamos conversar!
 
 Confira, faça um fork, adapte — e me diga o que você melhoraria.  
-Repositório no GitHub: [link]  
+Repositório no GitHub: [https://github.com/MLGus/start-smart-PT/](https://github.com/MLGus/start-smart-PT/)
 #gestaodeprojetos #produtividade #estratégia #ia #templates #opensource #markdown #obsidian #joplin #vscode
 
 ⚠️ _Importante: Estes templates são compartilhados no estado em que estão, sem garantias ou responsabilidades. Use por sua conta e risco. Sempre adapte ao seu contexto e revise antes de tomar decisões importantes._
