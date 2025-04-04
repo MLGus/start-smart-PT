@@ -13,9 +13,8 @@ Funciona perfeitamente com **Obsidian**, **VS Code** ou qualquer outra ferrament
 ---
 ## 🧩 O que está incluído?
 
-- Modelos estratégicos como SWOT, BSC, PESTLE, OKR, KPI, RACI, STAR, DMAIC e outros
-    
-- Templates visuais e interativos em Markdown para **Obsidian** e **VS Code**    
+Modelos estratégicos como SWOT, BSC, PESTLE, OKR, KPI, RACI, STAR, DMAIC e outros. Templates visuais e interativos em Markdown para **Obsidian** e **VS Code**.
+      
 - 🧠 01 Ferramentas de Gestão Estratégica e Análise    
 - 📝 02 Guia de Planejamento de Projetos    
 - 🗂️ 03 Sumário Executivo do Projeto    
